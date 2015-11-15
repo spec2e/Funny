@@ -1,0 +1,15 @@
+*.class
+target
+
+*.iml
+
+.idea
+
+log
+
+*/mafiaResults
+*/testResults
+
+hs_err_pid*
+
+
