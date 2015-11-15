@@ -1,0 +1,7 @@
+name: Funny
+main: dk.thrbrn.Funny
+version: 0.9
+commands:
+   cow:
+      description: This is a demo command.
+      usage: /<command> [player]
